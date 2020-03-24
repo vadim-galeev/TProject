@@ -1,0 +1,2 @@
+This is file8.txt
+@include "dir1/file1.txt@master"
