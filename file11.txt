@@ -1,2 +1,2 @@
 This is file11.txt
-@include "github:vadim-galeev/TProject/dir/file1.txt@master"
+@include "github:vadim-galeev/TProject/dir1/file1.txt@master"
