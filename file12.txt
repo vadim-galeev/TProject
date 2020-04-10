@@ -1,0 +1,2 @@
+This is file10.txt
+@include "github:vadim-galeev/TProject/dir1/file5.txt"
